@@ -4,6 +4,8 @@ on:
   pull_request:
     branches:
       - main
+      - branch-anas
+      - branch-mattia
     paths:
       - tokens/**/*.tokens.json
 
