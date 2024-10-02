@@ -4,6 +4,7 @@ on:
   pull_request:
     branches:
       - branch-anas
+      - tokenbrucke-anas
     paths:
       - tokens/**/*.tokens.json
 
