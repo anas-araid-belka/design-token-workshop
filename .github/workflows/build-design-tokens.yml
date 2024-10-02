@@ -3,7 +3,7 @@ name: Build Design Tokens
 on:
   pull_request:
     branches:
-      - main
+      - branch-mattia
     paths:
       - tokens/**/*.tokens.json
 
