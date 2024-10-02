@@ -1162,7 +1162,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.color.red.500}",
+          "value": "{global.color.green.700}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1178,7 +1178,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.color.red.800}",
+          "value": "{global.color.green.800}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1194,7 +1194,7 @@
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.color.red.800}",
+          "value": "{global.color.green.900}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1682,7 +1682,7 @@
         "semantic",
         "specific"
       ],
-      "createdAt": "2024-10-02T13:13:10.122Z"
+      "createdAt": "2024-10-02T13:21:17.119Z"
     }
   }
 }
