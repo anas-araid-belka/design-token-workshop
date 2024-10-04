@@ -4,6 +4,10 @@ on:
   pull_request:
     branches:
       - branch-mattia
+      - tokenbrucke-mattia
+      - branch-anas
+      - tokenbrucke-anas
+      - main
     paths:
       - tokens/**/*.tokens.json
 
