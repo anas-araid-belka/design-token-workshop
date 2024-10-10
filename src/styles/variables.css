@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Thu, 10 Oct 2024 13:12:02 GMT
+ * Generated on Thu, 10 Oct 2024 13:15:19 GMT
  */
 
 :root {
-  --radius-base: 12px;
-  --spacing-md: 24px;
-  --spacing-xs: 12px;
+  --radius-base: 999px;
+  --spacing-md: 48px;
+  --spacing-xs: 24px;
   --typography-font-family-dm-sans: DM Sans;
   --typography-line-height-9: 20px;
   --typography-line-height-8: 21px;

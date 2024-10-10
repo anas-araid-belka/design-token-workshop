@@ -1391,7 +1391,7 @@
     "spacing": {
       "xs": {
         "type": "dimension",
-        "value": "12px",
+        "value": "24px",
         "description": "",
         "$extensions": {
           "mode": {},
@@ -1407,7 +1407,7 @@
       },
       "md": {
         "type": "dimension",
-        "value": "24px",
+        "value": "48px",
         "description": "",
         "$extensions": {
           "mode": {},
@@ -1425,7 +1425,7 @@
     "radius": {
       "base": {
         "type": "dimension",
-        "value": "12px",
+        "value": "999px",
         "description": "",
         "$extensions": {
           "mode": {},
@@ -1678,12 +1678,11 @@
       "useDTCGKeys": false,
       "colorMode": "hex",
       "variableCollections": [
-        "Typography",
-        "Responsive",
-        "Color Primitive",
-        "Color Global"
+        "global",
+        "semantic",
+        "specific"
       ],
-      "createdAt": "2024-10-10T13:11:28.396Z"
+      "createdAt": "2024-10-10T13:14:47.331Z"
     }
   }
 }
