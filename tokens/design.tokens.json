@@ -1162,7 +1162,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.color.green.700}",
+          "value": "{global.color.teal.500}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1178,7 +1178,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.color.green.800}",
+          "value": "{global.color.teal.800}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1194,7 +1194,7 @@
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.color.green.900}",
+          "value": "{global.color.teal.900}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1210,7 +1210,7 @@
         },
         "secondary": {
           "type": "color",
-          "value": "{global.color.blue.500}",
+          "value": "{global.color.teal.500}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1226,7 +1226,7 @@
         },
         "secondary-hover": {
           "type": "color",
-          "value": "{global.color.blue.600}",
+          "value": "{global.color.teal.600}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1242,7 +1242,7 @@
         },
         "secondary-active": {
           "type": "color",
-          "value": "{global.color.blue.800}",
+          "value": "{global.color.teal.800}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1678,11 +1678,12 @@
       "useDTCGKeys": false,
       "colorMode": "hex",
       "variableCollections": [
-        "global",
-        "semantic",
-        "specific"
+        "Typography",
+        "Responsive",
+        "Color Primitive",
+        "Color Global"
       ],
-      "createdAt": "2024-10-04T08:56:35.365Z"
+      "createdAt": "2024-10-10T13:11:28.396Z"
     }
   }
 }
