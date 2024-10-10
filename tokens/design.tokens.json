@@ -1425,7 +1425,7 @@
     "radius": {
       "base": {
         "type": "dimension",
-        "value": "12px",
+        "value": "48px",
         "description": "",
         "$extensions": {
           "mode": {},
@@ -1682,7 +1682,7 @@
         "semantic",
         "specific"
       ],
-      "createdAt": "2024-10-10T12:46:22.829Z"
+      "createdAt": "2024-10-10T12:57:47.955Z"
     }
   }
 }
