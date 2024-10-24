@@ -16,6 +16,7 @@ const Button = forwardRef<ButtonElement, ButtonProps>((props, ref) => {
         {
           'button--primary': variant === 'primary',
           'button--secondary': variant === 'secondary',
+          'button--tertiary': variant === 'tertiary',
         },
         className,
       )}

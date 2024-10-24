@@ -7,9 +7,9 @@
 @layer components {
   .button {
     @apply inline-flex items-center justify-center border border-solid transition;
-    border-radius: var(--radius-base);
+    border-radius: var(--button-dimension-radius);
     gap: var(--spacing-xs);
-    padding: var(--spacing-xs) var(--spacing-md);
+    padding: var(--button-dimension-padding-v) var(--button-dimension-padding-h);
   }
 
   .button > svg {
@@ -45,5 +45,19 @@
   .button--secondary:active {
     background: var(--button-secondary-bg-active);
     border-color: var(--button-secondary-border-active);
+  }
+
+  .button--tertiary {
+    background: var(--button-tertiary-bg-default);
+    color: var(--button-tertiary-foreground);
+    border: none;
+  }
+  .button--tertiary:hover {
+    background: var(--button-tertiary-bg-hover);
+    color: var(--button-tertiary-fg-hover);
+  }
+  .button--tertiary:active {
+    background: var(--button-tertiary-bg-active);
+    color: var(--button-tertiary-fg-active);
   }
 }
