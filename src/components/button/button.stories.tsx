@@ -51,6 +51,19 @@ export const Secondary: Story = {
   },
 };
 
+export const Tertiary: Story = {
+  args: {
+    variant: 'tertiary',
+  },
+  argTypes: {
+    variant: {
+      table: {
+        disable: true,
+      },
+    },
+  },
+};
+
 export const RightIcon: Story = {
   render: ({ children, ...args }) => (
     <Button {...args}>

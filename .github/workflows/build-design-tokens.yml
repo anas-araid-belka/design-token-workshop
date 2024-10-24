@@ -3,8 +3,9 @@ name: Build Design Tokens
 on:
   pull_request:
     branches:
+      - branch-mattia
       - branch-anas
-      - tokenbrucke-anas
+      - main
     paths:
       - tokens/**/*.tokens.json
 
