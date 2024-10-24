@@ -116,7 +116,7 @@
         },
         "tertiary": {
           "type": "color",
-          "value": "{global.green.60}",
+          "value": "{global.breeze.60}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -132,7 +132,7 @@
         },
         "tertiary-hover": {
           "type": "color",
-          "value": "{global.green.80}",
+          "value": "{global.breeze.80}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -148,7 +148,7 @@
         },
         "tertiary-active": {
           "type": "color",
-          "value": "{global.green.90}",
+          "value": "{global.breeze.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2696,7 +2696,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2024-10-24T14:33:27.704Z"
+      "createdAt": "2024-10-24T15:02:33.811Z"
     }
   }
 }

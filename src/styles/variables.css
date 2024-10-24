@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 24 Oct 2024 14:34:01 GMT
+ * Generated on Thu, 24 Oct 2024 15:03:09 GMT
  */
 
 :root {
@@ -145,9 +145,9 @@
   --color-text-secondary: var(--acid-90);
   --color-text-primary: var(--wall-60);
   --color-text-default: var(--white);
-  --color-background-tertiary-active: var(--green-90);
-  --color-background-tertiary-hover: var(--green-80);
-  --color-background-tertiary: var(--green-60);
+  --color-background-tertiary-active: var(--breeze-90);
+  --color-background-tertiary-hover: var(--breeze-80);
+  --color-background-tertiary: var(--breeze-60);
   --color-background-secondary-active: var(--breeze-90);
   --color-background-secondary-hover: var(--breeze-70);
   --color-background-secondary: var(--breeze-60);
