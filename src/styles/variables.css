@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 25 Oct 2024 09:03:32 GMT
+ * Generated on Fri, 25 Oct 2024 14:45:08 GMT
  */
 
 :root {
@@ -151,9 +151,9 @@
   --color-background-secondary-active: var(--breeze-90);
   --color-background-secondary-hover: var(--breeze-70);
   --color-background-secondary: var(--breeze-60);
-  --color-background-primary-active: var(--eggplant-90);
-  --color-background-primary-hover: var(--eggplant-70);
-  --color-background-primary: var(--eggplant-60);
+  --color-background-primary-active: var(--acid-90);
+  --color-background-primary-hover: var(--acid-70);
+  --color-background-primary: var(--acid-90);
   --color-background-default: var(--white);
   --button-tertiary-fg-active: var(--color-background-tertiary-active);
   --button-tertiary-fg-hover: var(--color-background-tertiary-hover);
