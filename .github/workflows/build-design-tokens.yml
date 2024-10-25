@@ -5,6 +5,15 @@ on:
     branches:
       - branch-mattia
       - branch-anas
+      - branch-annalisa
+      - branch-francesca
+      - branch-francesco
+      - branch-guglielmo
+      - branch-lisa
+      - branch-luca
+      - branch-maddalena
+      - branch-massimo
+      - branch-simone
       - main
     paths:
       - tokens/**/*.tokens.json
