@@ -20,7 +20,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.eggplant.60}",
+          "value": "{global.eggplant.50}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -838,7 +838,7 @@
         },
         "radius": {
           "type": "dimension",
-          "value": "{semantic.radius.xs}",
+          "value": "{semantic.radius.md}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2692,15 +2692,11 @@
       "useDTCGKeys": false,
       "colorMode": "hex",
       "variableCollections": [
+        "global",
         "semantic",
-        "specific",
-        "global"
+        "specific"
       ],
-<<<<<<< HEAD
-      "createdAt": "2024-10-10T12:57:47.955Z"
-=======
-      "createdAt": "2024-10-24T15:02:33.811Z"
->>>>>>> branch-mattia
+      "createdAt": "2024-10-25T08:58:43.641Z"
     }
   }
 }
