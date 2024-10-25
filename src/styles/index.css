@@ -50,7 +50,7 @@
   .button--tertiary {
     background: var(--button-tertiary-bg-default);
     color: var(--button-tertiary-foreground);
-    border: none;
+    border-color: var(--color-background-default);
   }
   .button--tertiary:hover {
     background: var(--button-tertiary-bg-hover);

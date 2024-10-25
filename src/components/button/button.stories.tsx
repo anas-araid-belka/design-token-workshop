@@ -10,7 +10,7 @@ const meta: Meta<typeof Button> = {
       control: {
         type: 'radio',
       },
-      options: ['primary', 'secondary'],
+      options: ['primary', 'secondary', 'tertiary'],
     },
   },
   args: {
