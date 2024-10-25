@@ -20,7 +20,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.eggplant.60}",
+          "value": "{global.pink.80}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -36,7 +36,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.eggplant.70}",
+          "value": "{global.pink.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -52,7 +52,7 @@
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.eggplant.90}",
+          "value": "{global.pink.100}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -68,7 +68,7 @@
         },
         "secondary": {
           "type": "color",
-          "value": "{global.breeze.60}",
+          "value": "{global.acid.80}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -84,7 +84,7 @@
         },
         "secondary-hover": {
           "type": "color",
-          "value": "{global.breeze.70}",
+          "value": "{global.acid.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -100,7 +100,7 @@
         },
         "secondary-active": {
           "type": "color",
-          "value": "{global.breeze.90}",
+          "value": "{global.acid.100}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -116,7 +116,7 @@
         },
         "tertiary": {
           "type": "color",
-          "value": "{global.breeze.60}",
+          "value": "{global.brown.80}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -132,7 +132,7 @@
         },
         "tertiary-hover": {
           "type": "color",
-          "value": "{global.breeze.80}",
+          "value": "{global.brown.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -148,7 +148,7 @@
         },
         "tertiary-active": {
           "type": "color",
-          "value": "{global.breeze.90}",
+          "value": "{global.brown.100}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -166,7 +166,7 @@
       "text": {
         "default": {
           "type": "color",
-          "value": "{global.white}",
+          "value": "{global.black}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -230,7 +230,7 @@
         },
         "inverse": {
           "type": "color",
-          "value": "{global.black}",
+          "value": "{global.white}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -806,7 +806,7 @@
       "dimension": {
         "padding-v": {
           "type": "dimension",
-          "value": "{semantic.spacing.xs}",
+          "value": "{semantic.spacing.2xs}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -822,7 +822,7 @@
         },
         "padding-h": {
           "type": "dimension",
-          "value": "{semantic.spacing.md}",
+          "value": "{semantic.spacing.xl}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -838,7 +838,7 @@
         },
         "radius": {
           "type": "dimension",
-          "value": "{semantic.radius.xs}",
+          "value": "{semantic.radius.none}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2696,7 +2696,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2024-10-25T09:03:03.385Z"
+      "createdAt": "2024-10-25T14:42:53.590Z"
     }
   }
 }
